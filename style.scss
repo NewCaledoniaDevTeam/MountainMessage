@@ -287,3 +287,41 @@ footer {
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";
 @import "svg-icons";
+
+#darkToggle {
+    background: #3498db;
+    color: #fff;
+    border-radius: 50px;
+    margin: 0 0 0 30px;
+    padding: 10px 25px;
+    border: 1px solid transparent;
+    font-size: 18px;
+}
+
+pre {
+    white-space: pre-wrap;
+    white-space: -moz-pre-wrap;
+    white-space: -pre-wrap;
+    white-space: -o-pre-wrap;
+    word-wrap: break-word;
+}
+
+.post-nav {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.post-nav p {
+    flex: 1 1 0;
+    width: 45%;
+}
+
+.post-nav p:first-child {
+    padding-right: 0.5em;
+}
+
+.post-nav p:last-child {
+    padding-left: 0.5em;
+    text-align: right;
+}
