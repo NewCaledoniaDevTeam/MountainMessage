@@ -1,6 +1,7 @@
 <!DOCTYPE html>
-<html>
-  <head>
+<html lang="en">
+
+<head>
     <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
 
     {% include meta.html %}
@@ -13,29 +14,60 @@
     <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
 
     <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
-  </head>
 
-  <body>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" integrity="sha512-iBBXm8fW90+nuLcSKlbmrPcLa0OT92xO1BIsZ+ywDWZCvqsWgccV3gFoRBv0z+8dLJgyAHIhR35VZc2oM/gI1w==" crossorigin="anonymous" />
+    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/colormode.css" />
+    
+    <!-- Dark Mode -->
+<script>
+		// Do this before the body gets parsed
+		if (localStorage.getItem('darkmode') === '1') {
+			document.documentElement.classList.add('dark-mode');
+		}
+	</script>
+	<style>
+		.dark-mode body {
+			background: #121212;
+			color: #757575;
+		}
+	
+		.dark-mode .light-only {
+			display: none;
+		}
+	
+		html:not(.dark-mode) .dark-only {
+			display: none;
+		}
+	</style>
+</head>
+
+<body>
     <div class="wrapper-masthead">
-      <div class="container">
-        <header class="masthead clearfix">
-          <a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.avatar }}" /></a>
+        <div class="container">
+            <header class="masthead clearfix">
+                <a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.avatar }}" alt="" /></a>
 
-          <div class="site-info">
-            <h1 class="site-name"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
-            <p class="site-description">{{ site.description }}</p>
-          </div>
+                <div class="site-info">
+                    <h1 class="site-name"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
+                    <p class="site-description">{{ site.description }}</p>
+                </div>
 
-          <nav>
-            <a href="{{ site.baseurl }}/">Blog</a>
-            <a href="{{ site.baseurl }}/about">About</a>
-          </nav>
-        </header>
-      </div>
+                <nav>
+                    <a href="{{ site.baseurl }}/">Home</a>
+                    <!--<a href="{{ site.baseurl }}/about">About</a>-->
+			<button id="darkToggle">
+								Switch to
+								<span class="dark-only">light</span>
+								<span class="light-only">dark</span>
+								mode
+							</button>
+                </nav>
+            </header>
+        </div>
     </div>
 
     <div id="main" role="main" class="container">
-      {{ content }}
+        {{ content }}
     </div>
 
     <div class="wrapper-footer">
@@ -45,7 +77,19 @@
         </footer>
       </div>
     </div>
+    
+    <script>
+	document.querySelector('#darkToggle').addEventListener('click', function () {
+		var wasDarkMode = localStorage.getItem('darkmode') === '1';
+
+		localStorage.setItem('darkmode', wasDarkMode ? '0' : '1');
+		document.documentElement.classList[wasDarkMode ? 'remove' : 'add']('dark-mode');
+	});
+</script>
+	
+<script src="{{ site.baseurl }}/cookie/cookie.js"></script>
 
     {% include analytics.html %}
-  </body>
+</body>
+
 </html>
