@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Upcoming Addons
+description: New money for new food.
 ---
 
 New money for new food.
