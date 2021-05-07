@@ -34,4 +34,4 @@ Mountain Top's CEO, Alan Saucer, is the original heretic of the darzos. Ironicly
 
 Mountain Top offically annouces their new offical website at [mountaintopofficial.ml](https://mountaintopofficial.ml/). After school ends, we plan on doubling XP for week for the return of the councilman, Alan Saucer. We plan to start building an headquarters in two locations, one in twin peaks and other in Shrewsbuquerque.
 
-NOT DONE.
+NOT DONE. 53
