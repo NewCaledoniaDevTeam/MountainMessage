@@ -28,7 +28,7 @@ BONC is receiving some final changes. Applications are now open at [Mountain Top
 
 ## Shrewsbuquerque
 
-Mountain Top's CEO, Alan Saucer, is the original heretic of the darzos. Ironicly he is create a similar mainframe bot for Shrewsbuquerque. As of this post, it has the same commands as the mainframe bot along with some new exclusive commands. You are able to check out some of the commands on the [Shrewsbuquerque's website](https://shrewsbuquerque.ml/cmd/). If you want to help test this bot please join the [discord server](https://discord.gg/ZSpmb7cs58).
+Mountain Top's CEO, Alan Saucer, is the original heretic of the darzos. Ironicly, he is create a similar mainframe bot for Shrewsbuquerque. As of this post, it has the same commands as the mainframe bot along with some new exclusive commands. You are able to check out some of the commands on the [Shrewsbuquerque's website](https://shrewsbuquerque.ml/cmd/). If you want to help test this bot please join the [discord server](https://discord.gg/ZSpmb7cs58).
 
 ## Final Announcements
 
