@@ -6,7 +6,7 @@ description: New money for new food.
 
 ## Return of the Server Master
 
-Within in new couple of months, the server will be returned to Mountain Top. The server address will **NOT** change nor the port number. When doing so, the server is going to have a lot of changes. The map website will be updated, new logos added, and all the normal monthly updates like normal. 
+Within new couple of months, the server will be returned to Mountain Top. The server address will **NOT** change nor the port number. When doing so, the server is going to have a lot of changes. The map website will be updated, new logos added, and all the normal monthly updates like normal. 
 
 ## New Currencies
 
