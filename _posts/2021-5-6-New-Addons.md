@@ -10,6 +10,8 @@ Within new couple of months, the server will be returned to Mountain Top. The se
 
 ## New Currencies
 
+[![CreditsModPack](https://raw.githubusercontent.com/NewCaledoniaDevTeam/CreditsModPack/main/background.png)](https://github.com/NewCaledoniaDevTeam/CreditsModPack)
+
 With the new provinces, they decided to make there own currencies. Shrewsbuquerque created the Darzodian Credit, which is half the worth of a single credit. Eternalia created Drachmas, which are four times the original galactic credit. Both can convert into galactic credits via crafting tables. 
 
 ## Food Addon
