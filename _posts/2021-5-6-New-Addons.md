@@ -26,6 +26,8 @@ It has also come to Mountain Top's attention that civilians wanted the compresse
 
 ## Bank Of New Caledonia
 
+[![BONC]({{ site.baseurl }}/images/2021/bonc.png)](https://mountaintopofficial.ml/bonc/)
+
 BONC is receiving some final changes. Applications are now open at [Mountain Top Official Website](https://mountaintopofficial.ml/bonc/). Mountain Top also help create an competitor bot for Shrewsbuquerque's bank (own by TENET) called, the Provincial Bank of Bezos. BONC will only take galactic credits, while the Bank of Bezos will only take the Darzodian Credits. If they are given other currencies it would be converted to the proper one, free of charge. Both bots allow citizens to pay each other without logining to Minecraft, now users are able to pay anywhere at anytime. It also documents sells so it reduces arguments. Sadly, this doesn't allow company owners to have two bank accounts, for business and other for personal matters. BONC also have zero account fees and zero interest fees. We plan to create an loan system in the future but it depends on the success of the BONC bot. It's understood that the Provincial Bank of Bezos has loans, however, they are not incorporated with the bot.
 
 ## Shrewsbuquerque
