@@ -2,6 +2,7 @@
 layout: post
 title: Upcoming Addons
 description: New money for new food.
+author: Alan
 ---
 
 ## Return of the Server Master
