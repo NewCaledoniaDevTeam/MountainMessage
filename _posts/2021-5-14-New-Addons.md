@@ -11,21 +11,21 @@ Within a couple of months, the server will be returned to Mountain Top. The serv
 
 ## New Currencies
 
-[![CreditsModPack](https://raw.githubusercontent.com/NewCaledoniaDevTeam/CreditsModPack/main/background.png)](https://github.com/NewCaledoniaDevTeam/CreditsModPack)
+[![CreditsModPack](https://raw.githubusercontent.com/NewCaledoniaDevTeam/CreditsModPack/main/background.png)](https://newcaledoniadevteam.github.io/CreditsAddon/)
 
 With the new provinces, they decided to make their own currencies. Shrewsbuquerque created the Darzodian Credit, which is half the worth of a single credit. Eternalia created Drachmas, which is four times the original galactic credit. Both can convert into galactic credits via crafting tables. For more information please message the provinces.
 
 ## Food Addon
 
-[![Food](https://raw.githubusercontent.com/NewCaledoniaDevTeam/foodAddon/main/background.png)](https://github.com/NewCaledoniaDevTeam/foodAddon)
+[![Food](https://raw.githubusercontent.com/NewCaledoniaDevTeam/foodAddon/main/background.png)](https://newcaledoniadevteam.github.io/foodAddon/docs/)
 
 It is easier to add more than one addon at one time, rather than adding many addons in the future. With this in mind, Mountian Top decided to create the New Caledonia Food Addon. All the food suggestions are received from the citizens, so it's not just the council making all the decisions. Recommending items are free. You must understand that everything is not possible to the limitations of the bedrock edition. If you want to help with the food addon please join the [discord server](https://discord.gg/GMqpTajxYz) or download the latest beta version on the [GitHub](https://github.com/NewCaledoniaDevTeam/foodAddon/releases).
 
 ## Compressed Cobblestone
 
-[![Compressed Cobblestone](https://raw.githubusercontent.com/PiSaucer/CompressedCobblestone/main/background.jpg)](https://mcpedl.com/compressed-cobblestone-addon-1/)
+[![Compressed Cobblestone](https://raw.githubusercontent.com/PiSaucer/CompressedCobblestone/main/background.jpg)](https://newcaledoniadevteam.github.io/CompressedCobblestone/)
 
-It has also come to Mountain Top's attention that civilians wanted the compressed cobblestone addon, we also plan to add that soon. This allows players to stack more cobblestone to create more effective mining trips. Also, it appears as darker cobblestone as a new building block to excite the average builder. It would also increase chest space since you would be able to compress the cobblestone and stack even more than usual. To learn more please visit the [mcpedl download page](https://mcpedl.com/compressed-cobblestone-addon-1/) or the [GitHub page](https://github.com/PiSaucer/CompressedCobblestone).
+It has also come to Mountain Top's attention that civilians wanted the compressed cobblestone addon, we also plan to add that soon. This allows players to stack more cobblestone to create more effective mining trips. Also, it appears as darker cobblestone as a new building block to excite the average builder. It would also increase chest space since you would be able to compress the cobblestone and stack even more than usual. To learn more please visit the [mcpedl download page](https://mcpedl.com/compressed-cobblestone-addon-1/) or the [GitHub page](https://newcaledoniadevteam.github.io/CompressedCobblestone/).
 
 ## Bank Of New Caledonia
 
