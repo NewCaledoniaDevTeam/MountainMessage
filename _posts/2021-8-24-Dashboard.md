@@ -8,7 +8,7 @@ author: Alan Saucer
 ## Dashboard
 
 ## Websites Included 
-*(As of time of this article released, in order of appearance)*
+*(As of time of this article released, as in order of appearance)*
 
 - GitHub
 - Twitter
