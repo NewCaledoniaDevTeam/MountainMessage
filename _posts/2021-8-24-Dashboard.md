@@ -8,6 +8,14 @@ author: Alan Saucer
 ## Dashboard
 
 ## Beta Testers
+*(In alphabetical order)*
+
+- Dylan Hayden
+- Nate Ludwig
+- Connor McClintic
+- Ethan McClintic
+- Alan Saucer
+- Alex Synder
 
 ## Promotional Video
 
