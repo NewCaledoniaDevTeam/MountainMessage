@@ -24,7 +24,7 @@ Check out the New Caledonia Dashboard at [dash.newcaledonia.us](https://dash.new
 ## Optional Installation Process
 
 ## Websites Included 
-*(As of time of this article released (links subject to change), as in order of appearance)*
+^*(As of time of this article released (links subject to change), as in order of appearance)*
 
 - [GitHub](https://github.com/NewCaledoniaDevTeam/)
 - [Twitter](https://twitter.com/NewCalOfficial)
@@ -51,7 +51,7 @@ Check out the New Caledonia Dashboard at [dash.newcaledonia.us](https://dash.new
 - [Channel 4 News](https://www.youtube.com/channel/UCMvOGeh3OZDLG-FljVsGM2w)
 
 ## Beta Testers
-*(In alphabetical order)*
+^*(In alphabetical order)*
 
 - Dylan Hayden
 - Nate Ludwig
