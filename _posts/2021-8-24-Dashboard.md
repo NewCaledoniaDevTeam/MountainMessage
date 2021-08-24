@@ -17,7 +17,7 @@ author: Alan Saucer
   
 </div>
 
-The [New Caledonia Dashboard](https://dash.newcaledonia.us/) is the ulimate collection of [New Caledonia websites](#websites-included). Each website appears as an app icon to replicate click-and-go system. Users are able to download the dashboard as PWA (Progressive Web App, in other words, an app shortcut for all devices). The PWA uses an web browswer so it takes up no storage, no app store submission, fast (non-required) installation, cross platform, no updates issues, and much more.
+The [New Caledonia Dashboard](https://dash.newcaledonia.us/) is the ultimate collection of [New Caledonia websites](#websites-included). Each website appears as an app icon to replicate click-and-go systems. Users are able to download the dashboard as PWA (Progressive Web App, in other words, an app shortcut for all devices). The PWA uses an web browser  so it takes up to no storage, no app store submission, fast (non-required) installation, cross platform, no updates issues, and much more.
 
 Check out the New Caledonia Dashboard at [dash.newcaledonia.us](https://dash.newcaledonia.us/). If you have any issues, comment, or concerns please let Mountain Top know immediately.
 
