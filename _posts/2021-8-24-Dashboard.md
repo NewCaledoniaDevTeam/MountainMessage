@@ -10,3 +10,5 @@ author: Alan Saucer
 ## Beta Testers
 
 ## Promotional Video
+
+{% include youtube.html id=d3f-x46C7i8 %}
