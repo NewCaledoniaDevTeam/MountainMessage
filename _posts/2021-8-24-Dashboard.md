@@ -5,9 +5,19 @@ description: All New Caledonia Websites in one location.
 author: Alan Saucer
 ---
 
-## Dashboard
-
-[![Screenshot]({{ site.baseurl }}/images/2021/dashboard.png)](https://dash.newcaledonia.us/)
+<a href="https://dash.newcaledonia.us/" target="_blank">
+<div class="light-only">
+ 
+ <img src="/images/2021/dash/dashboard.light.png" alt="website screenshot">
+  
+</div>
+ 
+<div class="dark-only">
+ 
+ <img src="/images/2021/dash/dashboard.dark.png" alt="website screenshot">
+  
+</div>
+</a>
 
 The [New Caledonia Dashboard](https://dash.newcaledonia.us/) is the ulimate collection of [New Caledonia websites](#websites-included). Each website appears as an app icon to replicate click-and-go system. Users are able to download the dashboard as PWA (Progressive Web App, in other words, an app shortcut for all devices). The PWA uses an web browswer so it takes up no storage, no app store submission, fast (non-required) installation, cross platform, no updates issues, and much more.
 
@@ -16,31 +26,31 @@ Check out the New Caledonia Dashboard at [dash.newcaledonia.us](https://dash.new
 ## Optional Installation Process
 
 ## Websites Included 
-*(As of time of this article released, as in order of appearance)*
+*(As of time of this article released (links subject to change), as in order of appearance)*
 
-- GitHub
-- Twitter
-- Instagram
-- Main Site
-- Laws
-- Map
-- Status
-- Addons
-- Eternalia
-- Shrewsbuquerque
-- State of Cheese
-- Star Wars City
-- Among Us Project
-- Costco
-- NCT
-- New Caledonia Times
-- Future Gone Virtual
-- Mountain Top
-- Bank of New Caledonia
-- Shader Pack Download
-- Logos of Labor, LLC
-- Unofficial New Caledonia Wiki
-- Channel 4 News
+- [GitHub](https://github.com/NewCaledoniaDevTeam/)
+- [Twitter](https://twitter.com/NewCalOfficial)
+- [Instagram](https://www.instagram.com/new_caledonia_official/)
+- [Main Site](https://sites.google.com/view/new-caledonia-official)
+- [Laws](https://docs.google.com/document/d/1-KpRa0El13C30-Ja_eWoHg6q2QqbmYqCP-fwYFHNaqU/)
+- [Map](https://map.newcaledonia.us/map/)
+- [Status](https://newcaledonia.us/status/)
+- [Addons](https://addon.newcaledonia.us/)
+- [Eternalia](https://eternalia.ml/)
+- [Shrewsbuquerque](https://shrewsbuquerque.ml/)
+- [State of Cheese](https://stateofcheese.ml/)
+- [Star Wars City](https://starwarscity.ml/)
+- [Among Us Project](https://amongusproject.ml/)
+- [Costco](https://sites.google.com/student.dodea.edu/new-caledonia-costco/home)
+- [NCT](https://sites.google.com/view/nctcorp)
+- [New Caledonia Times](https://sites.google.com/view/new-caledonia-times)
+- [Future Gone Virtual](https://anchor.fm/nctimes)
+- [Mountain Top](https://mountaintopofficial.ml/)
+- [Bank of New Caledonia](https://mountaintopofficial.ml/bonc/)
+- [Shader Pack Download](https://download.newcaledonia.us/)
+- [Logos of Labor, LLC](https://logos.newcaledonia.us/lol/)
+- [Unofficial New Caledonia Wiki](http://ncrestored.ml/wiki/)
+- [Channel 4 News](https://www.youtube.com/channel/UCMvOGeh3OZDLG-FljVsGM2w)
 
 ## Beta Testers
 *(In alphabetical order)*
