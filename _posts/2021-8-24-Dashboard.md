@@ -7,6 +7,33 @@ author: Alan Saucer
 
 ## Dashboard
 
+## Websites Included 
+*(As of time of this article released, in order of appearance)*
+
+- GitHub
+- Twitter
+- Instagram
+- Main Site
+- Laws
+- Map
+- Status
+- Addons
+- Eternalia
+- Shrewsbuquerque
+- State of Cheese
+- Star Wars City
+- Among Us Project
+- Costco
+- NCT
+- New Caledonia Times
+- Future Gone Virtual
+- Mountain Top
+- Bank of New Caledonia
+- Shader Pack Download
+- Logos of Labor, LLC
+- Unofficial New Caledonia Wiki
+- Channel 4 News
+
 ## Beta Testers
 *(In alphabetical order)*
 
