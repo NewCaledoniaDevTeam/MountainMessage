@@ -11,4 +11,6 @@ author: Alan Saucer
 
 ## Promotional Video
 
-{% include youtube.html id=d3f-x46C7i8 %}
+{% include youtube.html id="d3f-x46C7i8" %}
+
+{% include youtube.html id=dQw4w9WgXcQ %}
