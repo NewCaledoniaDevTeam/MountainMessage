@@ -21,7 +21,7 @@ The [New Caledonia Dashboard](https://dash.newcaledonia.us/) is the ulimate coll
 
 Check out the New Caledonia Dashboard at [dash.newcaledonia.us](https://dash.newcaledonia.us/). If you have any issues, comment, or concerns please let Mountain Top know immediately.
 
-## Promotional Video
+## [Promotional Video](https://youtu.be/d3f-x46C7i8)
 
 {% include youtube.html id="d3f-x46C7i8" width=720 height=340 %}
 <br>
