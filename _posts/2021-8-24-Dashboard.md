@@ -21,6 +21,11 @@ The [New Caledonia Dashboard](https://dash.newcaledonia.us/) is the ulimate coll
 
 Check out the New Caledonia Dashboard at [dash.newcaledonia.us](https://dash.newcaledonia.us/). If you have any issues, comment, or concerns please let Mountain Top know immediately.
 
+## Promotional Video
+
+{% include youtube.html id="d3f-x46C7i8" width=720 height=340 %}
+<br>
+
 ## Optional Installation Process
 
 ## Websites Included 
@@ -45,8 +50,9 @@ Check out the New Caledonia Dashboard at [dash.newcaledonia.us](https://dash.new
 - [Future Gone Virtual](https://anchor.fm/nctimes)
 - [Mountain Top](https://mountaintopofficial.ml/)
 - [Bank of New Caledonia](https://mountaintopofficial.ml/bonc/)
-- [Shader Pack Download](https://download.newcaledonia.us/)
 - [Logos of Labor, LLC](https://logos.newcaledonia.us/lol/)
+- [Mountain Message](https://newcaledoniadevteam.github.io/)
+- [Shader Pack Download](https://download.newcaledonia.us/)
 - [Unofficial New Caledonia Wiki](http://ncrestored.ml/wiki/)
 - [Channel 4 News](https://www.youtube.com/channel/UCMvOGeh3OZDLG-FljVsGM2w)
 
@@ -59,8 +65,3 @@ Check out the New Caledonia Dashboard at [dash.newcaledonia.us](https://dash.new
 - Ethan McClintic
 - Alan Saucer
 - Alex Synder
-
-## Promotional Video
-
-{% include youtube.html id="d3f-x46C7i8" width=720 height=340 %}
-<br>
