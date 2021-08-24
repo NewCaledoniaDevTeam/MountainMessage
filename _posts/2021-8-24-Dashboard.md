@@ -5,19 +5,17 @@ description: All New Caledonia Websites in one location.
 author: Alan Saucer
 ---
 
-<a href="https://dash.newcaledonia.us/" target="_blank">
 <div class="light-only">
  
- <img src="/images/2021/dash/dashboard.light.png" alt="website screenshot">
+ <a href="https://dash.newcaledonia.us/" target="_blank"><img src="/images/2021/dash/dashboard.light.png" alt="website screenshot"></a>
   
 </div>
  
 <div class="dark-only">
  
- <img src="/images/2021/dash/dashboard.dark.png" alt="website screenshot">
+ <a href="https://dash.newcaledonia.us/" target="_blank"><img src="/images/2021/dash/dashboard.dark.png" alt="website screenshot"></a>
   
 </div>
-</a>
 
 The [New Caledonia Dashboard](https://dash.newcaledonia.us/) is the ulimate collection of [New Caledonia websites](#websites-included). Each website appears as an app icon to replicate click-and-go system. Users are able to download the dashboard as PWA (Progressive Web App, in other words, an app shortcut for all devices). The PWA uses an web browswer so it takes up no storage, no app store submission, fast (non-required) installation, cross platform, no updates issues, and much more.
 
