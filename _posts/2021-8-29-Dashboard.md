@@ -26,8 +26,6 @@ Check out the New Caledonia Dashboard at [dash.newcaledonia.us](https://dash.new
 {% include youtube.html id="d3f-x46C7i8" width=720 height=340 %}
 <br>
 
-## Optional Installation Process
-
 ## Websites Included 
 ^*(As of time of this article released (links subject to change), as in order of appearance)*
 
